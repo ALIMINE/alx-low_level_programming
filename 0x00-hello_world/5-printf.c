@@ -1,12 +1,9 @@
 #include <stdio.h>
 /* The number 5code*/
 /**
- *
  * main - Entry point
- * Main function as advertised
- *   
- *   Return: Always 0 (Success)
  *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
