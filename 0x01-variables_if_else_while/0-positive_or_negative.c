@@ -4,9 +4,9 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
+ *main - Assign a random number to n
  *This is
- *Return; Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -17,15 +17,15 @@ int main(void)
 
 	if (n > 0)
 	{
-		printf("is positve\n");
+		printf("%d is positve\n, n");
 	}
 	else if (n == 0)
 	{
-		printf("is zero\n");
+		printf("%d is zero\n, n");
 	}
 	else
 	{
-		printf("is negative\n");
+		printf("%d is negative\n, n");
 	}
 
 	return (0);
